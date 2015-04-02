@@ -1,3 +1,1 @@
-[template="glossary",id="terms"]
-List of Terms
--------------
+[red]#Obvious# and [big red yellow-background]*very obvious*.
