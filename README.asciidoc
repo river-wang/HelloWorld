@@ -1,5 +1,5 @@
 = The Dangerous and Thrilling Documentation Chronicles
-Kismet Rainbow Chameleon <kismet@asciidoctor.org>
+Kismet Rainbow Chameleon <http://www.163.com>
 
 This journey begins...
 
