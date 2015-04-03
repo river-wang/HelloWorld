@@ -1,14 +1,13 @@
-= The Dangerous and Thrilling Documentation Chronicles
-Kismet Rainbow Chameleon <http://www.163.com>
+= Document Title (Level 0)
 
-This journey begins...
+== Level 1 Section Title
 
-== About the Author
+=== Level 2 Section Title
 
-You can contact {author} at {email}.
-{firstname} loves to hear from other chroniclers.
+==== Level 3 Section Title
 
-P.S. And yes, my middle name really is {middlename}.
-What else would you expect from a member of the Rocky Mountain {lastname} Clan?
+===== Level 4 Section Title
 
-{authorinitials}
+====== Level 5 Section Title
+
+== Another Level 1 Section Title
