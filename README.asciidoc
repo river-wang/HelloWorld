@@ -1,5 +1,5 @@
 = My Diabolical Mathmatical Opus
 Jamie Moriarty
-:stem: 
+:stem: MathJax
 
 stem:[sqrt(4) = 2]
