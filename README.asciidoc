@@ -1,5 +1,9 @@
 = My Diabolical Mathmatical Opus
 Jamie Moriarty
 :stem: MathJax
-
+:myname: wangxiaohe
 stem:[sqrt(4) = 2]
+
+== chapter
+
+my name is {myname}!
